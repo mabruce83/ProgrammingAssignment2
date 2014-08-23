@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Creates a list that contains the following functions:
 ## Set value of matrix
 ## Get value of matrix
